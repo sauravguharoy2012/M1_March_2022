@@ -7,7 +7,7 @@
 3. HLR3                   Subtraction
 4. HLR4                   Division
 5. HLR5                   Square
-6. HLR6                   Percentage
+6. HLR6                   Percentage.
 
 
 # Low Level requirements
