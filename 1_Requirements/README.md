@@ -47,32 +47,7 @@
     * Print the Choice (Square)
     * Enter the Choice
     * Take numbers2
-
-
-# SWOT analysis
-
-* STRENGTHS
-
-       * Able to solve complex problem with ease
-       * Easy to use
-
-* WEAKNESS
-
-       * Do not solve multiple problems
-       * Perform one function at a time
-
-* OPPORTUNITIES
-
-       * Able to perform multiple functions at single time.
-       * Solve more complex functions.
-
-* THREATS
-
-       * Many Complex calculator are there.
-       * Solved only simple problems.
-       
-
-
+    
 # 4W and 1H
 1. WHY 
 
@@ -100,4 +75,24 @@
 
     * By simply clicking keys.
 
+# SWOT analysis
 
+* STRENGTHS
+
+       * Able to solve complex problem with ease
+       * Easy to use
+
+* WEAKNESS
+
+       * Do not solve multiple problems
+       * Perform one function at a time
+
+* OPPORTUNITIES
+
+       * Able to perform multiple functions at single time.
+       * Solve more complex functions.
+
+* THREATS
+
+       * Many Complex calculator are there.
+       * Solved only simple problems.
