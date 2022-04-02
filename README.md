@@ -1,2 +1,6 @@
-# M1_March_2022
-Naming convention: M1_Project_Goal"
+# Calculator
+## Codiga
+#### Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/32484/score/svg)
+#### Code Grade
+![Code Grade](https://api.codiga.io/project/32484/status/svg)
