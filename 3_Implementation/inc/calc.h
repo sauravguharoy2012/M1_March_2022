@@ -1,11 +1,9 @@
 #ifndef Calculator_h_
 #define Caculator_h_
-
 // Include files 
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
 // Structure declareation
 float addition(float num1, float num2);
 float subtract(float num1, float num2);
@@ -14,9 +12,7 @@ float divide(float num1, float num2);
 float square(float num3);
 float percentage(float num3);
 void exit();
-
 // Function Prototype
-
 /**
  * @brief add two no
  * 
@@ -24,10 +20,7 @@ void exit();
  * @param num2 
  * @return float 
  */
-
 float addition(float num1, float num2);
-
-
 /**
  * @brief subtarct two no
  * 
@@ -35,10 +28,7 @@ float addition(float num1, float num2);
  * @param num2 
  * @return float 
  */
-
 float subtract(float num1, float num2);
-
-
 /**
  * @brief multiply two no
  * 
@@ -48,8 +38,6 @@ float subtract(float num1, float num2);
  */
 
 float multiply(float num1, float num2);
-
-
 /**
  * @brief divide two no
  * 
@@ -57,10 +45,7 @@ float multiply(float num1, float num2);
  * @param num2 
  * @return float 
  */
-
 float divide(float num1, float num2);
-
-
 /**
  * @brief square a no
  * 
@@ -69,18 +54,11 @@ float divide(float num1, float num2);
  */
 
 float square(float num3);
-
-
 /**
  * @brief percenatage of a no
  * 
  * @param num3 
  * @return float 
  */
-
 float percentage(float num3);
-
-
-
-
 #endif
