@@ -1,36 +1,36 @@
 ## Introduction
--   A Calculator is a device which performs arithmetic calculations on numbers. The simplest calculator can only perform Addition, Substraction, Multiply, Division but this calculator can perform Square & Percentage as well. So this asignment was centered on the Design & Implementation of a simple calculator to perform simple arithmetic calculations. The manual system is investigated in detail with a view to finding out the need to automate the system. Intrestingly, The end result of the simple calculator system made using a simple code in C has its ability to process the numbers with the operators and perform the arithmetic calculations. 
+-   A Calculator is a device which performs arithmetic calculations on numbers. The simplest calculator can only perform Addition, Substraction, Multiply, Division but this calculator can perform Square & Percentage as well. In our day to day life we have to perform various calculations which when done manually takes a lot of time so this assignment was centered on the Design & Implementation of a simple calculator to perform simple arithmetic calculations. The manual system is investigated in detail with a view to finding out the need to automate the system. Intrestingly, The end result of the simple calculator system made using a simple code in C has its ability to process the numbers with the operators and perform the arithmetic calculations. 
 
 ## 4W and 1H
 ### WHY 
--   To solve mathematical problems with ease.
--   Easy to use.
+-   To solve the arithmetic calculations with ease.
+-   Very easy to use.
+-   User friendly.
 
 ### WHERE
--   Used in industries and shops.
--   Used in homes for simple calculations.
+-   Used in different shops and industries.
+-   Used in our homes to perform simple calculations.
 ### WHO
 -   Anyone can use it.
--   No complex functions.
+-   No complex functions or features.
 ### WHEN
--   It can reduce the time complexity.
--   In the busy schedule of the employees,it is used.
--   It can be accessed any time and anywhere.
+-   It can reduce the time duration of manual calculations.
+-   It is used in busy schedule of the employees which saves a lot of time.
+-   It can be accessed any time and anywhere and by anyone.
 ### HOW
--   By simply clicking keys.
+-   By simply clicking the keys i.e. numbers abd operators.
 ## SWOT analysis
 ### STRENGTHS
--   Able to solve complex problem with ease
--   Easy to use
+-   Able to solve complex arithmetic calculations with ease.
+-   User friendly and very easy to use.
 ### WEAKNESS
--   Do not solve multiple problems
--   Perform one function at a time
+-   Performs only one calculation at a time.
 ### OPPORTUNITIES
 -   Able to perform multiple functions at single time.
 -   Solve more complex functions.
 ### THREATS
--   Many Complex calculator are there.
--   Solved only simple problems.
+-   Many Complex calculator are there in the market.
+-   Solves only simple arithmetic problems.
 ## Requirements
 ### High level requirements
 |ID|Description|	
